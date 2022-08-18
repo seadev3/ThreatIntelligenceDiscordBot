@@ -1,6 +1,6 @@
 # Threat Intelligence Discord Bot
 The vx-underground Threat Intelligence Discord Bot gets updates from various clearnet domains, ransomware threat actor domains, and Telegram channels. This bot will check for updates in intervals of 1800 seconds (omit Telegram bot, this is gotten in real time).
-seadev
+seadev3
 * Written in Python 3.10 64bit
 * Can run on Windows or Linux
 * Requires Discord Webhook
